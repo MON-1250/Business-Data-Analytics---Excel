@@ -46,8 +46,7 @@ The dataset is used for educational and portfolio purposes only.
 
 The repository will include:
 
-- Raw dataset
-- Cleaned dataset
+- Data Files
 - Excel analysis workbook
 - Dashboard screenshots
 - Data dictionary
